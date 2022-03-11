@@ -1,1 +1,9 @@
 .idea
+.vscode
+
+**/*.pyc
+
+htmlcov
+.pytest_cache
+
+venv
